@@ -11,17 +11,17 @@
 }
 
 .bg0 {
-  background: url('https://picsum.photos/1200') no-repeat center center fixed;
+  background: url('https://picsum.photos/400') no-repeat center center fixed;
   background-size: cover;
 }
 
 .bg1 {
-  background: url('https://picsum.photos/1200') no-repeat center center fixed;
+  background: url('https://picsum.photos/600') no-repeat center center fixed;
   background-size: cover;
 }
 
 .bg2 {
-  background: url('https://picsum.photos/1200') no-repeat center center fixed;
+  background: url('https://picsum.photos/800') no-repeat center center fixed;
   background-size: cover;
 }
 
