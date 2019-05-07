@@ -94,6 +94,6 @@ justify-content: center;
 
 img.animated-gif{
   padding-top: 20px;
-  width: 125px;
-  height: 125px;
+  width: 200px;
+  height: auto;
 }
